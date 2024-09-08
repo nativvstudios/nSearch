@@ -2,7 +2,7 @@
 
 > Just launch, nSearch!
 
-nSearch is a powerful Unity Editor extension that supercharges your workflow by providing lightning-fast access to project assets, scene hierarchy objects, and instant calculations. Say goodbye to time-consuming manual searches and hello to streamlined development!
+nSearch is a powerful Unity Editor extension that was made with AI that supercharges your workflow by providing lightning-fast access to project assets, scene hierarchy objects, and instant calculations. Say goodbye to time-consuming manual searches and hello to streamlined development!
 
 ## Features
 
