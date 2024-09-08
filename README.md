@@ -42,7 +42,7 @@ nSearch is a powerful Unity Editor extension that was made with AI that supercha
 - Handles large projects with ease
 
 ### 🌐 Cross-Platform Compatibility
-- Works seamlessly on both Windows and macOS
+- Works seamlessly on both Windows and macOS (apparently to claude I don't have a mac to test this)
 - Consistent experience across different Unity versions
 
 ### ⌨️ Keyboard Shortcuts
@@ -50,16 +50,11 @@ nSearch is a powerful Unity Editor extension that was made with AI that supercha
 - Navigate results using arrow keys
 - Quick actions with keyboard shortcuts
 
-### 🔍 Advanced Search Options
-- Use prefixes to narrow down search scope (e.g., "t:" for textures)
-- Combine search terms for more precise results
-- Support for wildcard searches
-
 ## Getting Started
 
 1. Install nSearch in your Unity project
 2. Use the default hotkey (Cmd/Ctrl + Space) or set your own to launch nSearch
-3. Start typing to search for assets, calculate, or use prefixes like "h:" for hierarchy search
+3. Start typing to search for assets, calculate, or use prefixes like "h:" for hierarchy search or "s:" to open the WIP Settings menu
 4. Navigate results with arrow keys and press Enter to select
 
 Boost your Unity development productivity with nSearch - because every second counts in game development!
